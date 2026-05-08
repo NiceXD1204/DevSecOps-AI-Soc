@@ -1,0 +1,10 @@
+# Terraform internal files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+# Security and Secrets
+.aws/
+.env
+Terraform-AdminUser_accessKeys.csv
+Importent.txt
